@@ -13,7 +13,7 @@ The purpose of this project was to perform an analysis on kickstarter data to un
 The analysis was performed by using Pivot Tables to create Pivot Charts, which could filter the data to give us specific results we were looking for. The functions used were COUNTIFS, SUM, and diving cells by one another to find percentages. The biggest challenge was making sure the syntax of the code was good, so we didn't get any 'Inconsistent Formula' error on a cell while using COUNTIFS.
 
 ### Analysis of Outcomes Based on Launch Date
-
+![Theater_Outcomes_vs_Launch](https://github.com/yiggzzz/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 The first deliverable asked us to create a Pivot Table and filter out the parent category to only show theatre outcomes based on launch date. We needed to also filter out the column labels to not include live; therefore, it would only display successful, failed, and cancelled outcomes.
 
 ### Analysis of Outcomes Based on Goals
