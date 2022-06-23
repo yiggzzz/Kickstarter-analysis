@@ -17,7 +17,7 @@ The analysis was performed by using Pivot Tables to create Pivot Charts, which c
 The first deliverable asked us to create a Pivot Table and filter out the parent category to only show theatre outcomes based on launch date. We needed to also filter out the column labels to not include live; therefore, it would only display successful, failed, and cancelled outcomes.
 
 ### Analysis of Outcomes Based on Goals
-
+![Outcomes_vs_Goals](https://github.com/yiggzzz/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 The second deliverable asked us to find the outcomes based on goals where we used the COUNTIFS function to use data from the Kickstarter sheet to analyze the dollar-amount ranges so projects were grouped based on their goal amount. 
 
 ### Challenges and Difficulties Encountered
