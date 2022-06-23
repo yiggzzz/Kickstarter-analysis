@@ -1,6 +1,3 @@
-# Kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
-
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -9,7 +6,7 @@ The project analysis was to gain an understanding of how to use excel to view an
 
 ### Purpose
 
-The purpose of this project was to practice using Pivot Tables and Pivot Charts, use functions to deepen understanding of analysis by applying descriptive statistics, and creating visualizations of the data.
+The purpose of this project was to perform an analysis on kickstarter data to uncover trends. The intention is to practice using Pivot Tables and Pivot Charts, use functions to deepen understanding of analysis by applying descriptive statistics, and creating visualizations of the data.
 
 ## Analysis and Challenges
 
